@@ -1,3 +1,9 @@
+# 참고링크
+- 강의: https://github.com/spring-projects/spring-petclinic
+- Code: https://www.inflearn.com/course/spring_revised_edition
+
+
+---
 # Spring PetClinic Sample Application [![Build Status](https://travis-ci.org/spring-projects/spring-petclinic.png?branch=master)](https://travis-ci.org/spring-projects/spring-petclinic/)
 Deploy this sample application to Pivotal Web Services:
 
